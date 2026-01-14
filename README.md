@@ -1,5 +1,7 @@
 # ⏳ Life Calendar (For Android): Existential Crisis in 4K
 
+## 📥 [Click Here to Download App](https://github.com/ajiteshgpt/The-Life-Calander-app-/releases/download/v1.0.0/LifeCalander.apk)
+
 > **"Visualize Time. Live Intentionally."**
 
 **Visualize your life journey, annual progress, or personal goals through elegant, minimalist wallpaper grids. Life Calendar automatically transforms your device’s Home and Lock screens into a high-tech dashboard of time.**
