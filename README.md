@@ -2,6 +2,50 @@
 
 ## 📥 [Click Here to Download App](https://github.com/ajiteshgpt/The-Life-Calander-app-/releases/download/v1.0.0/LifeCalendar.apk)
 
+# 🚨 READ THIS BEFORE YOU INSTALL! 🚨
+
+## ⚠️ WARNING: YOU MIGHT SEE A SCARY POPUP ⚠️
+
+When you try to install this app, your phone (specifically Google Play Protect) might act like it’s seen a ghost. It looks exactly like this:
+
+![Google Play Protect Warning](https://github.com/ajiteshgpt/The-Life-Calander-app-/blob/main/DO%20NOT%20OPEN%20!!!!/WhatsApp%20Image%202026-01-14%20at%206.57.19%20AM.jpeg)
+
+*^ If you see this image, don't panic!*
+
+### 😱 WHY IS THIS HAPPENING?!
+Relax! Take a deep breath. 🧘‍♂️
+
+The message says: **"Play Protect hasn't seen this app before."**
+
+This **does not** mean the app is a virus, a secret government spy tool, or trying to steal your collection of cat memes.
+
+It simply means:
+1.  This app is **not on the Google Play Store** (yet).
+2.  Because it's a side-loaded app (APK), Google is just being an overprotective parent saying, *"I don't know this stranger!"*
+
+### 🛠️ WHAT SHOULD I DO?
+Don't let the robot overlords boss you around.
+
+1.  When the popup appears, click **"More details"**.
+2.  Select **"Install anyway"**.
+3.  Enjoy the app!
+
+---
+
+### 🕵️‍♂️ "NO SPY" GUARANTEE
+I promise there is **NO spyware**, **NO malware**, and **NO funny business** hidden inside.
+
+I barely have enough time to code this app, let alone figure out how to hack the Pentagon through your phone. The only thing this app wants to steal is your... attention (and maybe some of your boredom).
+
+**Happy using!** 🚀
+
+
+
+
+
+
+
+--
 > **"Visualize Time. Live Intentionally."**
 
 **Visualize your life journey, annual progress, or personal goals through elegant, minimalist wallpaper grids. Life Calendar automatically transforms your device’s Home and Lock screens into a high-tech dashboard of time.**
