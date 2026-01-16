@@ -1,6 +1,6 @@
 # ⏳ Life Calendar (For Android): Existential Crisis in 4K
 
-## 📥 [Click Here to Download App](https://github.com/ajiteshgpt/The-Life-Calander-app-/releases/download/v1.0.0/LifeCalendar.apk)
+## 📥 [https://github.com/ajiteshgpt/The-Life-Calander-Wallpaper-app/releases/download/v1.1.0/LifeCalender.apk)
 
 # 🚨 READ THIS BEFORE YOU INSTALL! 🚨
 
